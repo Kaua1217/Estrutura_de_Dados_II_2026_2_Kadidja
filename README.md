@@ -12,7 +12,9 @@ A disciplina aborda estruturas de dados e sua aplicação no desenvolvimento de 
 
 Neste capítulo são apresentados conceitos fundamentais para o estudo de estruturas de dados, incluindo **memória, variáveis, arrays, matrizes e structs**.
 
-## O objetivo é compreender como os dados são representados e organizados na memória, desenvolvendo conhecimentos de **modelagem de dados, abstração e raciocínio lógico**.
+O objetivo é compreender como os dados são representados e organizados na memória, desenvolvendo conhecimentos de modelagem de dados, abstração e raciocínio lógico.
+
+---
 
 ### Capítulo 2 — Ponteiros, Pilhas, Filas e Listas
 
