@@ -1,0 +1,1 @@
+# Estrutura_de_Dados_II_2026_2_Kadidja
