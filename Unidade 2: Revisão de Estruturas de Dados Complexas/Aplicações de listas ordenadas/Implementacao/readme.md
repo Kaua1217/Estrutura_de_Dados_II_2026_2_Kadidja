@@ -16,7 +16,7 @@ Slides utilizados na aula ministrada pela Prof.a Kadidja Valéria.
 Apresentação contendo o *Mini Game Design Document* (GDD) elaborado durante o workshop da aula.
 * **Conteúdo:** Documentação da mecânica da aplicação interativa, definindo o problema do usuário (localizar valores e entender o caminho), a árvore inicial sugerida (`[50, 30, 70, 20, 40, 60, 80]`), os loops de feedback visual/textual e as condições de sucesso/falha (atingir o valor ou chegar a `None`).
 
-### 3. `abb_interativa (1).html`
+### 3. `abb_interativa.html`
 A aplicação web interativa que tira o GDD do papel e materializa os conceitos ensinados nos slides.
 * **Conteúdo:** Uma interface completa feita em HTML, CSS e JavaScript puro (sem dependências externas) que permite visualizar o funcionamento do algoritmo passo a passo.
 * **Funcionalidades:**
