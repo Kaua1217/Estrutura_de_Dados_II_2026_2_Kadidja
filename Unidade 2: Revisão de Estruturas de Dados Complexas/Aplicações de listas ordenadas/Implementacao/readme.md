@@ -31,7 +31,7 @@ A aplicação web interativa que tira o GDD do papel e materializa os conceitos 
 
 A aplicação não requer instalação de bibliotecas, servidores ou ambientes de desenvolvimento. 
 
-1. Baixe o arquivo `abb_interativa (1).html` para o seu computador.
+1. Baixe o arquivo `abb_interativa.html` para o seu computador.
 2. Dê um duplo clique no arquivo, ou clique com o botão direito e selecione **"Abrir com"** para abrir no seu navegador web de preferência (Google Chrome, Firefox, Edge, Safari, etc.).
 3. Utilize o painel esquerdo para inserir os valores iniciais e, em seguida, teste a funcionalidade de "Buscar" acompanhando os relatórios gerados no console visual da tela.
 
