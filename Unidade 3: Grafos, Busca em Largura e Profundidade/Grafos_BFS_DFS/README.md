@@ -23,7 +23,7 @@ Requisito: Python 3.8+ (somente biblioteca padrão; `matplotlib` apenas para os 
 
 ### No Google Colab (recomendado)
 
-**Opção 1 — notebook:** em [colab.research.google.com](https://colab.research.google.com) use *Arquivo → Fazer upload de notebook*, envie `solucao_grafos.ipynb` e clique em *Ambiente de execução → Executar tudo*. As células mostram, em ordem: o código, os diagramas, os experimentos, os testes e a busca interativa (que pede as respostas numa caixa abaixo da célula).
+**Opção 1 — notebook:**  use *Arquivo → Fazer upload de notebook*, envie `solucao_grafos.ipynb` e clique em *Ambiente de execução → Executar tudo*. As células mostram, em ordem: o código, os diagramas, os experimentos, os testes e a busca interativa (que pede as respostas numa caixa abaixo da célula).
 
 **Opção 2 — arquivo .py:** cole todo o conteúdo de `solucao_grafos.py` em uma célula e execute. Aparece um menu:
 
