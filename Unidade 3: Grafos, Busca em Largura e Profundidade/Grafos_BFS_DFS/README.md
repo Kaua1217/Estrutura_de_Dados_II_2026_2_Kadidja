@@ -3,6 +3,7 @@
 **Disciplina:** Estrutura de Dados II — Ciência da Computação
 **Professora:** Kadidja Valéria
 **Estudo de caso:** pane relacionada ao GPS e impactos em voos no Aeroporto de Brasília (G1, 22 set. 2026)
+**Aluno:** Kauã de Sousa
 
 > **Aviso:** simulação computacional didática. Vértices, arestas e bloqueios são fictícios e **não** representam rotas aéreas reais nem podem orientar voos.
 
